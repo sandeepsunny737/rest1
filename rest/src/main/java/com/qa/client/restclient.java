@@ -32,7 +32,8 @@ public class restclient {
 				}	
 		System.out.println("Headers Array-->"+allHeaders);
 		System.out.println("Headers asd Array-->"+allHeaders);
-		
+		System.out.println("Headers Array-->"+allHeaders);
+		System.out.println("Headers asd Array-->"+allHeaders);
 	}
 	
 
